@@ -1,0 +1,6 @@
+rootProject.name = 'GeadleAndMaven'
+
+include 'db'
+include 'api'
+include 'service'
+
